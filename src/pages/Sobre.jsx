@@ -2,7 +2,7 @@
 
 const Sobre = () => {
   return (
-    <div>Sobre</div>
+    <h1>Sobre Nós</h1>
   )
 }
 
